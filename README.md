@@ -16,82 +16,44 @@ The purpose of this repository is to provide high-quality assets for enthusiasts
 
 Below is the N64 color palette with hex codes:
 
-<div style="display: flex; gap: 10px;">
-	<div style="background-color:#384ea2; color: white; padding: 20px; width: 100px; height: 60px; text-align: center; font-weight: bold; border-radius: 10px;">Violet Blue<br>#384ea2</div>
-	<div style="background-color:#ee1c24; color: white; padding: 20px; width: 100px; height: 60px; text-align: center; font-weight: bold; border-radius: 10px;">Pigment Red<br>#ee1c24</div>
-	<div style="background-color:#00b35a; color: white; padding: 20px; width: 100px; height: 60px; text-align: center; font-weight: bold; border-radius: 10px;">Pigment Green<br>#00b35a</div>
-	<div style="background-color:#faa51a; color: black; padding: 20px; width: 100px; height: 60px; text-align: center; font-weight: bold; border-radius: 10px;">Orange<br>#faa51a</div>
-</div>
+| Color Name    | Hex Code  | Preview |
+|---------------|-----------|---------|
+| Violet Blue   | #384ea2   | ![#384ea2](https://dummyimage.com/100x60/384ea2/FFFFFF&text=Violet+Blue) |
+| Pigment Red   | #ee1c24   | ![#ee1c24](https://dummyimage.com/100x60/ee1c24/FFFFFF&text=Pigment+Red) |
+| Pigment Green | #00b35a   | ![#00b35a](https://dummyimage.com/100x60/00b35a/FFFFFF&text=Pigment+Green) |
+| Orange        | #faa51a   | ![#faa51a](https://dummyimage.com/100x60/faa51a/000000&text=Orange) |
 
 ## Repository Contents
 
 Here are some previews of the assets available in this repository:
 
 ### ESRB Ratings
-<div style="text-align: center;">
-	<figure style="display: inline-block; margin: 10px;">
-		<img src="esrb/esrb_e_1998.svg" alt="ESRB E Rating" style="width: 100px; height: auto;">
-		<figcaption>ESRB E Rating (1998)</figcaption>
-	</figure>
-	<figure style="display: inline-block; margin: 10px;">
-		<img src="esrb/esrb_e_1998_tm.svg" alt="ESRB E Rating with Trademark" style="width: 100px; height: auto;">
-		<figcaption>ESRB E Rating with Trademark (1998)</figcaption>
-	</figure>
-	<figure style="display: inline-block; margin: 10px;">
-		<img src="esrb/esrb_e_1999_tm.svg" alt="ESRB E Rating 1999 with Trademark" style="width: 100px; height: auto;">
-		<figcaption>ESRB E Rating with Trademark (1999)</figcaption>
-	</figure>
-</div>
+
+| Image | Description | Format |
+|-------|-------------|--------|
+| [<img src="esrb/esrb_e_1998.svg" alt="ESRB E Rating" width="100">](esrb/esrb_e_1998.svg) | ESRB E Rating (1998) | SVG |
+| [<img src="esrb/esrb_e_1998_tm.svg" alt="ESRB E Rating with Trademark" width="100">](esrb/esrb_e_1998_tm.svg) | ESRB E Rating with Trademark (1998) | SVG |
+| [<img src="esrb/esrb_e_1999_tm.svg" alt="ESRB E Rating with Trademark" width="100">](esrb/esrb_e_1999_tm.svg) | ESRB E Rating with Trademark (1999) | SVG |
 
 ### Nintendo Logos
-<div style="display: flex; flex-wrap: wrap; gap: 20px; justify-content: center;">
-	<figure style="text-align: center;">
-		<img src="nintendo/n64_cart_mark.svg" alt="N64 Cart Mark" style="width: 100px; height: auto;">
-		<figcaption>N64 Cart Mark</figcaption>
-	</figure>
-	<figure style="text-align: center;">
-		<img src="nintendo/n64_logo.svg" alt="N64 Logo" style="width: 100px; height: auto;">
-		<figcaption>N64 Logo</figcaption>
-	</figure>
-	<figure style="text-align: center;">
-		<img src="nintendo/n64_text_logo.svg" alt="N64 Text Logo" style="width: 200px; height: auto;">
-		<figcaption>N64 Text Logo</figcaption>
-	</figure>
-	<figure style="text-align: center;">
-		<img src="nintendo/nintendo_logo.svg" alt="Nintendo Logo" style="width: 200px; height: auto;">
-		<figcaption>Nintendo Logo</figcaption>
-	</figure>
-	<figure style="text-align: center;">
-		<img src="nintendo/quality_seal.svg" alt="Quality Seal" style="width: 100px; height: auto;">
-		<figcaption>Quality Seal</figcaption>
-	</figure>
-	<div style="display: flex; gap: 20px; justify-content: center;">
-		<figure style="text-align: center;">
-			<img src="nintendo/controller_box_icon.svg" alt="Controller Box Icon" style="height: 100px; width: auto;">
-			<figcaption>Controller Box Icon</figcaption>
-		</figure>
-		<figure style="text-align: center;">
-			<img src="nintendo/rumble_box_icon.svg" alt="Rumble Box Icon" style="height: 100px; width: auto;">
-			<figcaption>Rumble Box Icon</figcaption>
-		</figure>
-	</div>
-</div>
+
+| Image | Description | Format |
+|-------|-------------|--------|
+| [<img src="nintendo/n64_cart_mark.svg" alt="N64 Cart Mark" width="100">](nintendo/n64_cart_mark.svg) | N64 Cart Mark | SVG |
+| [<img src="nintendo/n64_logo.svg" alt="N64 Logo" width="100">](nintendo/n64_logo.svg) | N64 Logo | SVG |
+| [<img src="nintendo/n64_text_logo.svg" alt="N64 Text Logo" width="100">](nintendo/n64_text_logo.svg) | N64 Text Logo | SVG |
+| [<img src="nintendo/nintendo_logo.svg" alt="Nintendo Logo" width="100">](nintendo/nintendo_logo.svg) | Nintendo Logo | SVG |
+| [<img src="nintendo/quality_seal.svg" alt="Quality Seal" width="100">](nintendo/quality_seal.svg) | Quality Seal | SVG |
+| [<img src="nintendo/controller_box_icon.svg" alt="Controller Box Icon" height="50">](nintendo/controller_box_icon.svg) | Controller Box Icon | SVG |
+| [<img src="nintendo/rumble_box_icon.svg" alt="Rumble Box Icon" height="50">](nintendo/rumble_box_icon.svg) | Rumble Box Icon | SVG |
 
 ### Publisher Logos
-<div style="display: flex; flex-wrap: wrap; gap: 20px; justify-content: center;">
-	<figure style="text-align: center;">
-		<img src="publishers/infogrames_logo.svg" alt="Infogrames Logo" style="width: 200px; height: auto;">
-		<figcaption>Infogrames Logo</figcaption>
-	</figure>
-	<figure style="text-align: center;">
-		<img src="publishers/natsume_logo.svg" alt="Natsume Logo" style="width: 200px; height: auto;">
-		<figcaption>Natsume Logo</figcaption>
-	</figure>
-	<figure style="text-align: center;">
-		<img src="publishers/midway_games_logo.svg" alt="Midway Games Logo" style="width: 200px; height: auto;">
-		<figcaption>Midway Games Logo</figcaption>
-	</figure>
-</div>
+
+| Image | Description | Format |
+|-------|-------------|--------|
+| [<img src="publishers/infogrames_logo.svg" alt="Infogrames Logo" width="100">](publishers/infogrames_logo.svg) | Infogrames Logo | SVG |
+| [<img src="publishers/natsume_logo.svg" alt="Natsume Logo" width="100">](publishers/natsume_logo.svg) | Natsume Logo | SVG |
+| [<img src="publishers/midway_games_logo.svg" alt="Midway Games Logo" width="100">](publishers/midway_games_logo.svg) | Midway Games Logo | SVG |
 
 ## Related Repository
 
