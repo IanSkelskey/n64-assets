@@ -18,10 +18,10 @@ Below is the N64 color palette with hex codes:
 
 | Color Name    | Hex Code  | Preview |
 |---------------|-----------|---------|
-| Violet Blue   | #384ea2   | ![#384ea2](https://dummyimage.com/100x60/384ea2/FFFFFF&text=Violet+Blue) |
-| Pigment Red   | #ee1c24   | ![#ee1c24](https://dummyimage.com/100x60/ee1c24/FFFFFF&text=Pigment+Red) |
-| Pigment Green | #00b35a   | ![#00b35a](https://dummyimage.com/100x60/00b35a/FFFFFF&text=Pigment+Green) |
-| Orange        | #faa51a   | ![#faa51a](https://dummyimage.com/100x60/faa51a/000000&text=Orange) |
+| Violet Blue   | #384ea2   | ![#384ea2](https://dummyimage.com/100x60/384ea2/FFFFFF&text=%23384ea2) |
+| Pigment Red   | #ee1c24   | ![#ee1c24](https://dummyimage.com/100x60/ee1c24/FFFFFF&text=%23ee1c24) |
+| Pigment Green | #00b35a   | ![#00b35a](https://dummyimage.com/100x60/00b35a/FFFFFF&text=%2300b35a) |
+| Orange        | #faa51a   | ![#faa51a](https://dummyimage.com/100x60/faa51a/000000&text=%23faa51a) |
 
 ## Repository Contents
 
